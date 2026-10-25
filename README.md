@@ -1,4 +1,4 @@
-# FastNick-Issues
+# FastNick Issues
 Repository used to keep track of issues for FastNick.
 
 # Before posting an issue:
